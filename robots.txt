@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://bandung-city.github.io/braga/sitemap.xml
